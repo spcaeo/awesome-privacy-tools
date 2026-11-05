@@ -252,6 +252,7 @@ Receive SMS verification codes without exposing your real phone number — the p
 - [Matomo](https://matomo.org/) - Open-source analytics platform with privacy controls.
 - [Plausible](https://plausible.io/) - Lightweight, open-source website analytics.
 - [PostHog](https://posthog.com/) - Product analytics suite with self-hosting support.
+- [Skald](https://skaldanalytics.com/) - Web analytics from your server's access log that separates people from AI assistants and crawlers, with no cookies in the visitor's browser.
 - [Swetrix](https://swetrix.com/) - Privacy-focused analytics and monitoring platform.
 - [Umami](https://umami.is/) - Simple, open-source, privacy-focused web analytics.
 
